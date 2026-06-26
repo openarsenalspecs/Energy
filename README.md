@@ -62,8 +62,7 @@ At the licensing level, the framework is designed to remain open by default unde
 
 ## License & Notice Requirements
 
-Open Arsenal Energy Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
-By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+Open Arsenal Energy Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
 
 Please note the following:
 
