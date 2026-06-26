@@ -1,0 +1,82 @@
+# Open Arsenal Energy Specifications
+
+The Energy Specifications define a unified open framework for modeling, optimizing, and coordinating energy systems across generation, distribution, storage, mobility, and computational infrastructure. Across the suite—spanning systems like grid intelligence, regenerative vehicle energy recovery, hydrogen storage, waste-heat reuse, and real-time energy market analysis—the goal is to standardize how energy data, control logic, and infrastructure relationships are represented. This allows disparate systems (utilities, vehicles, buildings, and industrial networks) to operate as interconnected, interoperable components of a larger adaptive energy ecosystem.
+
+At the licensing level, the framework is designed to remain open by default under the GNU AGPL 3.0+ license, ensuring that all network-deployed derivatives maintain transparency and attribution back to Roxanne Ardary and the originating work. However, a Specification Branding License is available and negotiable upon request for organizations seeking proprietary or co-branded implementation rights. This dual-structure approach preserves open-source integrity while still allowing flexible commercial or institutional adoption under clearly defined terms.
+
+## Energy Specs
+
+- **Power Transparency Network**  
+  [https://roxanneardary.com/power-transparency-network/](https://roxanneardary.com/power-transparency-network/)  
+  Power Transparency Network is an AGPL 3.0+ open-source intelligence system that maps energy production, ownership, and distribution across the United States. It helps users understand utility structures, market concentration, and pathways toward greater household energy independence.  
+
+- **EnerAgent**  
+  [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
+  EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.  
+
+- **RegenMatrix**  
+  [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
+  RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.  
+
+- **CurrenSee**  
+  [https://roxanneardary.com/currensee/](https://roxanneardary.com/currensee/)  
+  CurrenSee is an open-source platform that reveals corporate ownership and supply chains behind all US energy sources. It provides transparency into infrastructure control and national energy dependencies.  
+
+- **Wattonomy**  
+  [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
+  Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations.  
+
+- **AIChauffeur**  
+  [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
+  AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.  
+
+- **Orbital Drive**  
+  [https://roxanneardary.com/orbital-drive/](https://roxanneardary.com/orbital-drive/)  
+  Orbital Drive is an open-source regenerative energy framework for electric vehicles. It coordinates recovery from airflow, braking, heat, motion, and solar input into a unified system.  
+
+- **VoltMesh**  
+  [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
+  VoltMesh is an open mobility platform that replaces proprietary in-car systems with a universal mesh network. It supports vehicle intelligence, EV energy optimization, and fleet coordination.  
+
+- **FluxGrid Infrastructure**  
+  [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
+  FluxGrid Infrastructure provides wireless EV charging and intelligent grid systems. It enables autonomous, cable-free vehicle charging with integrated safety and energy management.  
+
+- **FuelAI**  
+  [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
+  FuelAI is an open-source platform using AI to compare real-time prices across gasoline, electricity, hydrogen, and other fuels. It optimizes routes and energy choices based on actual cost per mile.  
+
+- **FieldCell Systems**  
+  [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
+  FieldCell Systems is an open-source hydrogen energy storage solution using modular and repairable systems. It provides long-duration power for homes, farms, and microgrids.  
+
+- **HotSide Collective**  
+  [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
+  HotSide Collective defines an open standard for recovering waste heat from liquid-cooled computing. It converts thermal energy into usable heating for buildings and district networks.  
+
+- **OpenEnergyStack**  
+  [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
+  OpenEnergyStack is a platform for planning and governing transparent energy infrastructure. It includes mapping, simulation, and tools for building resilient next-generation power systems.
+
+---
+
+## License & Notice Requirements
+
+Open Arsenal Energy Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Energy Specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
