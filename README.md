@@ -41,7 +41,7 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
   Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations.  
 
-- **AIChauffeur**  
+- [**AIChauffeur Module Specification**](https://github.com/openarsenalspecs/Energy/blob/58078a660053e56088c03dbb4c1781a8a5eca561/AIChauffeur.md)  
   [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
   AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.  
 
