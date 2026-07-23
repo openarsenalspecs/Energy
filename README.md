@@ -29,7 +29,7 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
   EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.  
 
-- **RegenMatrix**  
+- [**RegenMatrix Module Specification**](https://github.com/openarsenalspecs/Energy/blob/96767e3ccc8ac56faebec3cd65aa2102dd6e516e/RegenMatrix.md)    
   [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
   RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.  
 
