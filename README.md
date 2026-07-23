@@ -57,7 +57,7 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
   FluxGrid Infrastructure provides wireless EV charging and intelligent grid systems. It enables autonomous, cable-free vehicle charging with integrated safety and energy management.  
 
-- **FuelAI**  
+- [**FuelAI Module Specification**](https://github.com/openarsenalspecs/Energy/blob/ccb003f112cfc32fdd6c1170fd863989ff2968e2/FuelAI.md)    
   [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
   FuelAI is an open-source platform using AI to compare real-time prices across gasoline, electricity, hydrogen, and other fuels. It optimizes routes and energy choices based on actual cost per mile.  
 
