@@ -69,7 +69,7 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
   VoltMesh is an open mobility platform that replaces proprietary in-car systems with a universal mesh network. It supports vehicle intelligence, EV energy optimization, and fleet coordination.
 
-- **Wattonomy**  
+- [**Wattonomy Module Specification**](https://github.com/openarsenalspecs/Energy/blob/91352a9a8602cff2394096487cf109fc3f754b3f/Wattonomy.md)    
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
   Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations. 
 
