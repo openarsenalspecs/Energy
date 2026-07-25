@@ -21,37 +21,17 @@ At the licensing level, the framework is designed to remain open by default unde
 
 ## Energy Specs
 
-- **Power Transparency Network**  
-  [https://roxanneardary.com/power-transparency-network/](https://roxanneardary.com/power-transparency-network/)  
-  Power Transparency Network is an AGPL 3.0+ open-source intelligence system that maps energy production, ownership, and distribution across the United States. It helps users understand utility structures, market concentration, and pathways toward greater household energy independence.  
+- [**AIChauffeur Module Specification**](https://github.com/openarsenalspecs/Energy/blob/58078a660053e56088c03dbb4c1781a8a5eca561/AIChauffeur.md)  
+  [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
+  AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.   
 
 - **EnerAgent**  
   [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
   EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.  
 
-- [**RegenMatrix Module Specification**](https://github.com/openarsenalspecs/Energy/blob/96767e3ccc8ac56faebec3cd65aa2102dd6e516e/RegenMatrix.md)    
-  [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
-  RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.  
-
 - **CurrenSee**  
   [https://roxanneardary.com/currensee/](https://roxanneardary.com/currensee/)  
-  CurrenSee is an open-source platform that reveals corporate ownership and supply chains behind all US energy sources. It provides transparency into infrastructure control and national energy dependencies.  
-
-- **Wattonomy**  
-  [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
-  Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations.  
-
-- [**AIChauffeur Module Specification**](https://github.com/openarsenalspecs/Energy/blob/58078a660053e56088c03dbb4c1781a8a5eca561/AIChauffeur.md)  
-  [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
-  AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.  
-
-- **Orbital Drive**  
-  [https://roxanneardary.com/orbital-drive/](https://roxanneardary.com/orbital-drive/)  
-  Orbital Drive is an open-source regenerative energy framework for electric vehicles. It coordinates recovery from airflow, braking, heat, motion, and solar input into a unified system.  
-
-- **VoltMesh**  
-  [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
-  VoltMesh is an open mobility platform that replaces proprietary in-car systems with a universal mesh network. It supports vehicle intelligence, EV energy optimization, and fleet coordination.  
+  CurrenSee is an open-source platform that reveals corporate ownership and supply chains behind all US energy sources. It provides transparency into infrastructure control and national energy dependencies.   
 
 - **FluxGrid Infrastructure**  
   [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
@@ -72,6 +52,26 @@ At the licensing level, the framework is designed to remain open by default unde
 - **OpenEnergyStack**  
   [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
   OpenEnergyStack is a platform for planning and governing transparent energy infrastructure. It includes mapping, simulation, and tools for building resilient next-generation power systems.
+
+- **Orbital Drive**  
+  [https://roxanneardary.com/orbital-drive/](https://roxanneardary.com/orbital-drive/)  
+  Orbital Drive is an open-source regenerative energy framework for electric vehicles. It coordinates recovery from airflow, braking, heat, motion, and solar input into a unified system.
+
+- **Power Transparency Network**  
+  [https://roxanneardary.com/power-transparency-network/](https://roxanneardary.com/power-transparency-network/)  
+  Power Transparency Network is an AGPL 3.0+ open-source intelligence system that maps energy production, ownership, and distribution across the United States. It helps users understand utility structures, market concentration, and pathways toward greater household energy independence.
+
+- [**RegenMatrix Module Specification**](https://github.com/openarsenalspecs/Energy/blob/96767e3ccc8ac56faebec3cd65aa2102dd6e516e/RegenMatrix.md)    
+  [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
+  RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.  
+
+- **VoltMesh**  
+  [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
+  VoltMesh is an open mobility platform that replaces proprietary in-car systems with a universal mesh network. It supports vehicle intelligence, EV energy optimization, and fleet coordination.
+
+- **Wattonomy**  
+  [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
+  Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations. 
 
 ---
 
