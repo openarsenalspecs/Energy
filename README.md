@@ -31,7 +31,11 @@ At the licensing level, the framework is designed to remain open by default unde
 
 - **EnerAgent**  
   [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
-  EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.   
+  EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.
+
+- **FieldCell Systems**  
+  [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
+  FieldCell Systems is an open-source hydrogen energy storage solution using modular and repairable systems. It provides long-duration power for homes, farms, and microgrids.  
 
 - **FluxGrid Infrastructure**  
   [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
@@ -40,10 +44,6 @@ At the licensing level, the framework is designed to remain open by default unde
 - [**FuelAI Module Specification**](https://github.com/openarsenalspecs/Energy/blob/ccb003f112cfc32fdd6c1170fd863989ff2968e2/FuelAI.md)    
   [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
   FuelAI is an open-source platform using AI to compare real-time prices across gasoline, electricity, hydrogen, and other fuels. It optimizes routes and energy choices based on actual cost per mile.  
-
-- **FieldCell Systems**  
-  [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
-  FieldCell Systems is an open-source hydrogen energy storage solution using modular and repairable systems. It provides long-duration power for homes, farms, and microgrids.  
 
 - **HotSide Collective**  
   [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
