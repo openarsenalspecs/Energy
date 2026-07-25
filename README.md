@@ -23,15 +23,15 @@ At the licensing level, the framework is designed to remain open by default unde
 
 - [**AIChauffeur Module Specification**](https://github.com/openarsenalspecs/Energy/blob/58078a660053e56088c03dbb4c1781a8a5eca561/AIChauffeur.md)  
   [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
-  AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.   
-
-- **EnerAgent**  
-  [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
-  EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.  
+  AIChauffeur is an AI driving efficiency coach for vehicles providing real-time guidance. It helps reduce energy loss through smarter braking, coasting, and predictive optimization.
 
 - **CurrenSee**  
   [https://roxanneardary.com/currensee/](https://roxanneardary.com/currensee/)  
-  CurrenSee is an open-source platform that reveals corporate ownership and supply chains behind all US energy sources. It provides transparency into infrastructure control and national energy dependencies.   
+  CurrenSee is an open-source platform that reveals corporate ownership and supply chains behind all US energy sources. It provides transparency into infrastructure control and national energy dependencies.  
+
+- **EnerAgent**  
+  [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
+  EnerAgent is an open-source AI-driven energy management platform for industrial, commercial, and multi-site environments. It optimizes usage through real-time data, predictive analytics, and autonomous decision-making across electricity, gas, and thermal systems.   
 
 - **FluxGrid Infrastructure**  
   [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
