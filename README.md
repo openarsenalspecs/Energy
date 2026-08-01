@@ -63,7 +63,11 @@ At the licensing level, the framework is designed to remain open by default unde
 
 - [**RegenMatrix Module Specification**](https://github.com/openarsenalspecs/Energy/blob/96767e3ccc8ac56faebec3cd65aa2102dd6e516e/RegenMatrix.md)    
   [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
-  RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.  
+  RegenMatrix is an AI-controlled regenerative energy system for vehicles focused on maximizing energy recapture. It optimizes efficiency through dynamic recovery mechanisms during different driving conditions.
+
+- [**VoltIQ Module Specification**](https://github.com/openarsenalspecs/Energy/blob/31b3b9e67e2cd4daaf7ca288e19dcdb8bdc46a4f/VoltIQ.md)  
+[https://roxanneardary.com/voltiq/](https://roxanneardary.com/voltiq/)  
+VoltIQ is an open AGPL-3.0+ specification that serves as the energy brain for edge devices, providing intelligent power optimization, adaptive energy management, and energy-aware workload scheduling for distributed computing systems. Its modular architecture enables organizations to build efficient, autonomous edge infrastructure with optional support for battery intelligence, renewable energy integration, smart grid connectivity, and AI-driven energy optimization.
 
 - **VoltMesh**  
   [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
