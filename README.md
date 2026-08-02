@@ -45,7 +45,7 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
   FuelAI is an open-source platform using AI to compare real-time prices across gasoline, electricity, hydrogen, and other fuels. It optimizes routes and energy choices based on actual cost per mile.  
 
-- **HotSide Collective**  
+- [**HotSide Collective Module Specification**](https://github.com/openarsenalspecs/Energy/blob/67ffc7c7739b60ae5acc690f407b271b6bb11b35/HotSide%20Collective.md)    
   [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
   HotSide Collective defines an open standard for recovering waste heat from liquid-cooled computing. It converts thermal energy into usable heating for buildings and district networks.  
 
