@@ -73,6 +73,10 @@ VoltIQ is an open AGPL-3.0+ specification that serves as the energy brain for ed
   [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
   VoltMesh is an open mobility platform that replaces proprietary in-car systems with a universal mesh network. It supports vehicle intelligence, EV energy optimization, and fleet coordination.
 
+- [**WattMind Module Specification**](https://github.com/openarsenalspecs/Energy/blob/cfb35686a1c5d0b033247c6471572cef0a46c62f/WattMind.md)  
+[https://roxanneardary.com/wattmind/](https://roxanneardary.com/wattmind/)  
+WattMind is an open-source distributed energy exchange platform that enables decentralized energy production, storage, and consumption to operate as a real-time, intelligent marketplace. Its modular architecture coordinates energy resources, market settlement, and grid intelligence, creating a scalable foundation for modern distributed energy networks.
+
 - [**Wattonomy Module Specification**](https://github.com/openarsenalspecs/Energy/blob/91352a9a8602cff2394096487cf109fc3f754b3f/Wattonomy.md)    
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)  
   Wattonomy is an open-source energy decision intelligence platform modeling real-world costs of heating and cooling systems. It incorporates location data, utility rates, incentives, and lifecycle performance for transparent recommendations. 
