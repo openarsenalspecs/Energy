@@ -49,9 +49,9 @@ At the licensing level, the framework is designed to remain open by default unde
   [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
   HotSide Collective defines an open standard for recovering waste heat from liquid-cooled computing. It converts thermal energy into usable heating for buildings and district networks.
 
-- [**OpenEnergyOS Module Specification**](https://github.com/openarsenalspecs/Energy/blob/1b49a24beb6f5e4c945b90ad35c488dc28dd111c/OpenEnergyOS.md)  
+- [**OpenEnergyOS Module Specification**](https://github.com/openarsenalspecs/Energy/blob/2ac062e77c103cbe9006df8b211a487ddbd1aaea/OpenEnergyStack.md)  
 [https://roxanneardary.com/openenergyos/](https://roxanneardary.com/openenergyos/)  
-OpenEnergyOS is a specification-driven, AGPL-3.0+ modular platform for simulating, planning, and optimizing large-scale energy transition away from oil dependency. It combines physics-based simulation, economic analysis, infrastructure modeling, and legal alignment to help municipalities, states, and national governments build transparent and resilient energy systems.
+OpenEnergyOS is a specification-driven, AGPL-3.0+ modular platform for simulating, planning, and optimizing large-scale energy transition away from oil dependency. It combines physics-based simulation, economic analysis, infrastructure modeling, and legal alignment to help municipalities, states, and national governments build transparent and resilient energy systems.  
 
 - [**OpenEnergyStack Module Specification**](https://github.com/openarsenalspecs/Energy/blob/e477a6d48fe8201d71633227aa2527e0e860fc67/OpenEnergyStack.md)    
   [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
